@@ -1,0 +1,11 @@
+.result {
+color: #38f;
+font-size: 36px;
+}
+
+.command {
+cursor:  pointer;
+color:  #00b; 
+font-size: 13px;
+font-weight: bold;
+}
